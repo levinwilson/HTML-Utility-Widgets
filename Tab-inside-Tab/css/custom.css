@@ -1,0 +1,16 @@
+/*============================================================================================*/
+/* Your custom styles below */
+/*============================================================================================*/
+.logt-btn{background: #f7941d;
+    border: 1px solid #ffffff;
+    padding: 5px 29px;
+    color: #fff;
+    display: block;
+    float: right;
+    /* margin-right: 4%; */
+    border-radius: 49px;
+    width: 22%;
+    margin-top: 1%;}
+    .main-header {
+    padding: 6px !important;
+    }
